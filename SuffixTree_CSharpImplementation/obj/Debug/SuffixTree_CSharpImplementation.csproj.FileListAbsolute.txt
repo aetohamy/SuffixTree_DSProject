@@ -1,0 +1,9 @@
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\bin\Debug\SuffixTree_CSharpImplementation.exe.config
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\bin\Debug\SuffixTree_CSharpImplementation.exe
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\bin\Debug\SuffixTree_CSharpImplementation.pdb
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\obj\Debug\SuffixTree_CSharpImplementation.Form1.resources
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\obj\Debug\SuffixTree_CSharpImplementation.Properties.Resources.resources
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\obj\Debug\SuffixTree_CSharpImplementation.csproj.GenerateResource.Cache
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\obj\Debug\SuffixTree_CSharpImplementation.exe
+c:\users\tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\obj\Debug\SuffixTree_CSharpImplementation.pdb
+C:\Users\Tohamy\documents\visual studio 2013\Projects\SuffixTree_CSharpImplementation\SuffixTree_CSharpImplementation\obj\Debug\SuffixTree_CSharpImplementation.csprojResolveAssemblyReference.cache
